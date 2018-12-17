@@ -1,0 +1,15 @@
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe.config
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.exe
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\bin\Debug\HarcosokApplication.pdb
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.dll
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.dll
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\bin\Debug\Google.Protobuf.xml
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\bin\Debug\MySql.Data.xml
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csprojAssemblyReference.cache
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.Properties.Resources.resources
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.GenerateResource.cache
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CoreCompileInputs.cache
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.csproj.CopyComplete
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.exe
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.pdb
+D:\Petrik\2.év\SzoftFejl\Beadando jan4\HarcosokApplication\HarcosokApplication\obj\Debug\HarcosokApplication.KarakterLetrehozFrm.resources
