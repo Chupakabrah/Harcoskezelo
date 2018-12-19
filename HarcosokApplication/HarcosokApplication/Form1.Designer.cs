@@ -253,6 +253,7 @@
             // 
             // KarakterLetrehozFrm
             // 
+            this.AllowDrop = true;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(568, 477);
@@ -267,7 +268,10 @@
             this.Controls.Add(this.allWarriorLbl);
             this.Controls.Add(this.kepessegLetrehozGrpBox);
             this.Controls.Add(this.harcosLetrehozGrpBox);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "KarakterLetrehozFrm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Karakter kreálás";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.harcosLetrehozGrpBox.ResumeLayout(false);
